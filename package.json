@@ -1,6 +1,6 @@
 {
   "name": "uw-db-sqlite",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Driver for SQLite database engine for uwheel tools",
   "main": "SQLite.js",
   "scripts": {
